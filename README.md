@@ -1,5 +1,4 @@
-# Frontend Mentor - Results summary component
-
+# Frontend Mentor - Results QRCode Component
 ## Welcome!👋
 This is a solution of [FrontEnd Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub)  this is a project in css and html for improve my coding skills.
 
