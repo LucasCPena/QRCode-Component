@@ -4,7 +4,8 @@
 This is a solution of [FrontEnd Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub)  this is a project in css and html for improve my coding skills.
 
 ## Screenshot
-![Project](https://github.com/LucasCPena/Results-summary-component/assets/79058932/1175a26b-9a67-4af1-ad0b-4ce462e06258)
+![QR Code Project](https://github.com/LucasCPena/QRCode-Component/assets/79058932/5e3c8e37-ce3f-495e-8706-461f02dc455b)
+
 
 ## Link
 Live Site URL:(https://master--qr-component-result.netlify.app/) <br/>
