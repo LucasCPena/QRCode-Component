@@ -13,6 +13,8 @@ html {
 }
 
 .attribution {
+    position: absolute;
+    top: 80%;
     font-size: 11px;
     text-align: center;
 }
